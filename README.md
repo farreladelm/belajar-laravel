@@ -4,7 +4,7 @@
 - Farrel Adel Mohammad (20081010138)
 - Muhammad Alviriza (20081010xxx)
 - Dani Kian (20081010xxx)
-- 
+  
 ### Fitur yang dijelaskan
 - Cara melakukan Create
 - Cara melakukan Read
