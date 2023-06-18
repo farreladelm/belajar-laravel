@@ -1,6 +1,6 @@
-### Modul Pembelajaran Laravel
+# Modul Pembelajaran Laravel
 
-## Fitur yang dijelaskan
+### Fitur yang dijelaskan
 - Cara melakukan Create
 - Cara melakukan Read
 - Cara melakukan Update
